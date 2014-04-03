@@ -34,3 +34,5 @@ O público alvo do sistema é tipicamente uma equipe envolvida no desenvolviment
 ### Apresentação sucinta das alternativas tecnológicas a serem consideradas
 Em função da relativa simplicidade tecnológica do sistema, que basicamente será composto de atualizações em real-time e consulta a REST services, a alternativa tecnológica mais adequada, em princípio, seria o uso de um framework Python ou Ruby para desenvolvimento leve, em conjunto com Framework JS para desenvolvimento de interfaces como o Twitter Bootstrap.
 
+Um exemplo seria o deploynator, da Etsy (http://codeascraft.com/2010/05/20/quantum-of-deployment/)
+
