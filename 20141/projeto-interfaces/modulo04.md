@@ -1,6 +1,6 @@
 # Atividade: Elementos iniciais do projeto de Interfaces
 
-Realize com o seu grupo a definição inicial do projeto de interfaces a ser desenvolvido como tarefa prática. Esta definição deve ser entregue até o final desta semana de atividades. Verifique o enunciado do trabalho prático ([CLIQUE AQUI|README]) e *preencha os itens indicados na introdução* (item 1 do enunciado) . A versão final do projeto deve ser entregue na sexta semana de aula e valerá 5,5 pontos do GA.
+Realize com o seu grupo a definição inicial do projeto de interfaces a ser desenvolvido como tarefa prática. Esta definição deve ser entregue até o final desta semana de atividades. Verifique o enunciado do trabalho prático (consulte o README.md) e *preencha os itens indicados na introdução* (item 1 do enunciado) . A versão final do projeto deve ser entregue na sexta semana de aula e valerá 5,5 pontos do GA.
 
 A entrega da definição inicial do projeto nesta tarefa não valerá nota!
 
