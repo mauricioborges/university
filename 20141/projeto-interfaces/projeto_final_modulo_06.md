@@ -97,14 +97,3 @@ Além do status, as demais funcionalidades do sistema são acessíveis através 
 A página de deploy tem como estado inicial apenas a seleção das aplicações. Apenas após a seleção de uma das aplicações, a seleção de versão se torna disponível. A seleção da versão libera o acesso para a seleção de ambientes. Após completar a seleção, a execução do deploy pode ser disparada, e seu status acompanhado na tela inicial do sistema.
 
 ![deploy](deploy.png)
-
-
-### tipos de dispositivos de E/S empregados
-### estilos de interação adotados
-### facilidades/dificuldades na aprendizagem e no uso
-### descrição das metáforas utilizadas
-### relação das metáforas com o contexto de trabalho ou modelo conceitual empregado
-
-# Conclusão
-
-Comparar as diferentes alternativas apresentadas e concluir sobre o trabalho realizado.
